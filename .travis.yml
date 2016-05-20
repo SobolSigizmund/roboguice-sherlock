@@ -12,3 +12,4 @@ before_install:
 
   # Install required components.
   - android update sdk --filter platform-tools,android-7,android-11,extra-android-support --no-ui --force > /dev/null
+
